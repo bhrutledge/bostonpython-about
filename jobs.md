@@ -11,12 +11,13 @@ In order to ensure that job announcements are relevant and useful to the communi
 - The job must significantly involve Python. For example, more than half of the work is in Python.
 - The job must be available to someone living in the Boston area. Either it's in Boston, or remote is OK.
 - The name of the hiring firm must be clearly provided. No mystery firms hidden behind a hiring agency.
-- For postings sent to the mailing list, the subject line must include "[Job]" to help people filter messages. For example, your subject line could look like this:
-  ```
-  [Job] Junior engineer at Initech
-  ```
+- For postings sent to the mailing list, the subject line must include `[Job]` to help people filter messages. For example, your subject line could look like this:
 
-If your job posting meets these simple rules, feel free to send it to the mailing list at [python-181@meetup.com](mailto:python-181@meetup.com) or post it to the [#jobs channel in Slack][slack].  Messages sent to the mailing list are moderated and may take a few hours to go out. Messages posted to Slack are subject to after-the-fact moderation.
+```
+[Job] Junior engineer at Initech
+```
+
+If your job posting meets these simple rules, feel free to send it to the mailing list at [python-181@meetup.com](mailto:python-181@meetup.com) or post it to the [#jobs channel in Slack][slack]. Messages sent to the mailing list are moderated and may take a few hours to go out. Messages posted to Slack are subject to after-the-fact moderation.
 
 Some suggestions/requests:
 
@@ -32,9 +33,7 @@ If your email message doesn't go through, here are some things to check:
 - Be sure to send your message from the email address you used when signing up for Meetup.com.
 - Some people have reported that you have to visit your Meetup settings and elect to receive updates from the mailing list.
 
-
-By the way: if your job posting succeeds, please consider making a [donation to the group][donate].
-
+If your job posting succeeds, please consider making a [donation to the group][donate].
 
 [email]: mailto:python-181@meetup.com
 [slack]: slack.md
